@@ -3,7 +3,7 @@ Add Contract Interactions and Wallet Connections Through MetaMask SDK and Ethers
 
 ## UniMud 
 
-[UniMud Tutorial]([https://docs.metamask.io/wallet/how-to/use-sdk/unity/](https://0xpectations.notion.site/Tanks-Tutorial-31fe9c88e4384f7c8f47c09418ee0669)
+[UniMud Tutorial](https://docs.metamask.io/wallet/how-to/use-sdk/unity/](https://0xpectations.notion.site/Tanks-Tutorial-31fe9c88e4384f7c8f47c09418ee0669)
 
 ## MetaMask Unity SDK Tutorial
 
