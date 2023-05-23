@@ -36,5 +36,4 @@ Add Contract Interactions and Wallet Connections Through MetaMask SDK and Ethers
 ```
 
 ## Video Walkthrough
-
-[![Watch the video]([https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=PUk-8kVSIzM))
+[![Watch the Video](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://www.youtube.com/watch?v=PUk-8kVSIzM))
