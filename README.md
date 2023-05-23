@@ -34,7 +34,5 @@ Add Contract Interactions and Wallet Connections Through MetaMask SDK and Ethers
         Debug.Log("Name of Token: " + callData[0]);
         Debug.Log("Player Balance: " + callBalance[0]);
 ```
-
 ## Video Walkthrough
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
-
+[![Watch the Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PUk-8kVSIzM&t=62s)
