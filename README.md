@@ -34,5 +34,18 @@ Add Contract Interactions and Wallet Connections Through MetaMask SDK and Ethers
         Debug.Log("Name of Token: " + callData[0]);
         Debug.Log("Player Balance: " + callBalance[0]);
 ```
+
+## Create HdWallet
+
+```csharp
+
+    Wallet wallet = new Wallet(Wordlist.English, WordCount.Twelve);
+    Debug.Log("HD Wallet Path: " + wallet.Path);
+    Debug.Log("HD Public Address: " + wallet.GetAccount(0).Address);
+    Debug.Log("HD Private Key: " + wallet.GetAccount(0).PrivateKey);
+    Debug.Log("HD Account Public Key: " + wallet.GetAccount(0).PublicKey);
+
+```
+
 ## Video Walkthrough
-[![Watch the Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=PUk-8kVSIzM&t=62s)
+[![Watch the Video](https://img.youtube.com/vi/PUk-8kVSIzM&t=62s/0.jpg)](https://www.youtube.com/watch?v=PUk-8kVSIzM&t=62s)
