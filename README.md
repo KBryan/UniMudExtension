@@ -9,7 +9,7 @@ Add Contract Interactions and Wallet Connections Through MetaMask SDK and Ethers
 
 [MetaMask SDK Tutorial](https://docs.metamask.io/wallet/how-to/use-sdk/unity/)
 
-## Ethers C# Usage
+## Ethereum RPC  Usage
 
 ```csharp
         // OP Node
